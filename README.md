@@ -25,7 +25,7 @@ In our case, the underlying testing framework is [Playwright](https://playwright
 
 ## Installation
 
-1. Clone the repository with `git clone https://stash.ecx.io/scm/qa/codeceptjs-boilerplate-project.git`
+1. Clone the repository with `git clone https://github.com/basalona/codeceptjs-boilerplate.git`
 2. Navigate to the root of the repository
 3. Install CodeceptJS and other project dependencies with the terminal command `yarn install`
 4. You can execute the sample tests with the terminal command `yarn test`
